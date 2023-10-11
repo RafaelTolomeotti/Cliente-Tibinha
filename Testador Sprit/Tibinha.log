@@ -1,0 +1,1115 @@
+GPU ANGLE (Intel(R) Iris(R) Xe Graphics Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
+OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client pro OT/'
+== application started at May 11 2023 09:30:03
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client pro OT/'
+== application started at May 11 2023 09:33:05
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to load texture '/images/background': unable to open file '/images/background.png': not found
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client pro OT/'
+== application started at May 11 2023 09:34:25
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client pro OT/'
+== application started at May 11 2023 09:42:27
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client pro OT/'
+== application started at May 11 2023 09:43:20
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client pro OT/'
+== application started at May 11 2023 09:44:20
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client pro OT/'
+== application started at May 11 2023 09:44:44
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 20.195.160.1:7172
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Client pro OT/'
+== application started at Jun 07 2023 14:43:38
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Client pro OT/'
+== application started at Jun 07 2023 14:44:16
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 07 2023 14:52:19
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 10 2023 10:30:44
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 10 2023 23:25:45
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 11 2023 15:07:21
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 11 2023 16:30:58
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+ERROR: protected lua call failed: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+stack traceback:
+	[C]: in function 'setOff'
+	/modules/client_entergame/characterlist.lua:348: in function 'show'
+	/modules/client_entergame/characterlist.lua:365: in function 'showAgain'
+	/modules/client_entergame/characterlist.lua:150: in function </modules/client_entergame/characterlist.lua:148>
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 12 2023 19:45:37
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 13 2023 21:46:07
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 13 2023 23:07:24
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 13 2023 23:07:59
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 13 2023 23:12:36
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 13 2023 23:15:36
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1113' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 13 2023 23:16:43
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+ERROR: lua function callback failed: /modules/client_options/options.lua:306: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:306: in function 'setOption'
+	/modules/client_options/options.lua:164: in function 'setup'
+	/modules/client_options/options.lua:141: in function </modules/client_options/options.lua:141>
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:413: in function </modules/client_options/options.lua:412>
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:418: in function </modules/client_options/options.lua:417>
+	[C]: in function 'cancelLogin'
+	/modules/client_entergame/characterlist.lua:38: in function </modules/client_entergame/characterlist.lua:36>
+	[C]: in function 'pcall'
+	/modules/corelib/util.lua:319: in function 'signalcall'
+	/modules/corelib/ui/uimessagebox.lua:93: in function 'cancel'
+	/modules/corelib/ui/uimessagebox.lua:69: in function </modules/corelib/ui/uimessagebox.lua:69>
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:413: in function </modules/client_options/options.lua:412>
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:418: in function </modules/client_options/options.lua:417>
+	[C]: in function 'cancelLogin'
+	/modules/client_entergame/characterlist.lua:38: in function </modules/client_entergame/characterlist.lua:36>
+	[C]: in function 'pcall'
+	/modules/corelib/util.lua:319: in function 'signalcall'
+	/modules/corelib/ui/uimessagebox.lua:93: in function 'cancel'
+	/modules/corelib/ui/uimessagebox.lua:69: in function </modules/corelib/ui/uimessagebox.lua:69>
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Exiting application..
+WARNING: widget 'widget1111' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 13 2023 23:17:50
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+ERROR: lua function callback failed: /modules/client_options/options.lua:306: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:306: in function 'setOption'
+	/modules/client_options/options.lua:164: in function 'setup'
+	/modules/client_options/options.lua:141: in function </modules/client_options/options.lua:141>
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:413: in function </modules/client_options/options.lua:412>
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:418: in function </modules/client_options/options.lua:417>
+	[C]: in function 'cancelLogin'
+	/modules/client_entergame/characterlist.lua:38: in function </modules/client_entergame/characterlist.lua:36>
+	[C]: in function 'pcall'
+	/modules/corelib/util.lua:319: in function 'signalcall'
+	/modules/corelib/ui/uimessagebox.lua:93: in function 'cancel'
+	/modules/corelib/ui/uimessagebox.lua:69: in function </modules/corelib/ui/uimessagebox.lua:69>
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:413: in function </modules/client_options/options.lua:412>
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:418: in function </modules/client_options/options.lua:417>
+	[C]: in function 'cancelLogin'
+	/modules/client_entergame/characterlist.lua:38: in function </modules/client_entergame/characterlist.lua:36>
+	[C]: in function 'pcall'
+	/modules/corelib/util.lua:319: in function 'signalcall'
+	/modules/corelib/ui/uimessagebox.lua:93: in function 'cancel'
+	/modules/corelib/ui/uimessagebox.lua:69: in function </modules/corelib/ui/uimessagebox.lua:69>
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:413: in function </modules/client_options/options.lua:412>
+Exiting application..
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:418: in function </modules/client_options/options.lua:417>
+	[C]: in function 'cancelLogin'
+	/modules/client_entergame/characterlist.lua:213: in function 'terminate'
+	/modules/client_entergame/entergame.otmod:8:[@onUnload]:1: in main chunk
+WARNING: widget 'widget1106' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 13 2023 23:18:55
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+ERROR: lua function callback failed: /modules/client_options/options.lua:292: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:292: in function 'setOption'
+	/modules/client_options/options.lua:162: in function 'setup'
+	/modules/client_options/options.lua:141: in function </modules/client_options/options.lua:141>
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:413: in function </modules/client_options/options.lua:412>
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:418: in function </modules/client_options/options.lua:417>
+	[C]: in function 'cancelLogin'
+	/modules/client_entergame/characterlist.lua:38: in function </modules/client_entergame/characterlist.lua:36>
+	[C]: in function 'pcall'
+	/modules/corelib/util.lua:319: in function 'signalcall'
+	/modules/corelib/ui/uimessagebox.lua:93: in function 'cancel'
+	/modules/corelib/ui/uimessagebox.lua:69: in function </modules/corelib/ui/uimessagebox.lua:69>
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Exiting application..
+WARNING: widget 'widget1106' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 13 2023 23:19:22
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:413: in function </modules/client_options/options.lua:412>
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:418: in function </modules/client_options/options.lua:417>
+	[C]: in function 'cancelLogin'
+	/modules/client_entergame/characterlist.lua:38: in function </modules/client_entergame/characterlist.lua:36>
+	[C]: in function 'pcall'
+	/modules/corelib/util.lua:319: in function 'signalcall'
+	/modules/corelib/ui/uimessagebox.lua:93: in function 'cancel'
+	/modules/corelib/ui/uimessagebox.lua:69: in function </modules/corelib/ui/uimessagebox.lua:69>
+ERROR: /modules/client_entergame/characterlist.lua:348: attempt to call method 'setOff' (a nil value)
+Login to 181.214.221.86:7172
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:413: in function </modules/client_options/options.lua:412>
+Exiting application..
+ERROR: protected lua call failed: /modules/client_options/options.lua:425: attempt to index a nil value
+stack traceback:
+	[C]: in function '__index'
+	/modules/client_options/options.lua:425: in function 'setLightOptionsVisibility'
+	/modules/client_options/options.lua:418: in function </modules/client_options/options.lua:417>
+	[C]: in function 'cancelLogin'
+	/modules/client_entergame/characterlist.lua:213: in function 'terminate'
+	/modules/client_entergame/entergame.otmod:8:[@onUnload]:1: in main chunk
+WARNING: widget 'widget1106' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Jun 13 2023 23:19:42
+Tibinha 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_market' required by 'game_interface'
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1106' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 15:26:37
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Connecting to: tibinha.online:7171
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 15:27:13
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 15:32:33
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 15:35:11
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 15:50:18
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 15:51:31
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 15:52:11
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 16:16:33
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Connecting to: tibinha.online:7171
+Connecting to: tibinha.online:7171
+Login to 181.214.221.86:7172
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 16:20:06
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 16:36:11
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 16:40:26
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 16:42:18
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 16:51:28
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 16:56:21
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 16:57:30
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 17:00:15
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 18:04:11
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 18:08:20
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 08 2023 22:53:17
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 09 2023 22:11:04
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 09 2023 22:12:44
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Login to 181.214.221.86:7172
+Login to 181.214.221.86:7172
+ERROR: ProtocolGame parse message exception (4529 bytes, 3095 unread, last opcode is 0x64 (100), prev opcode is 0x0b (11)): unable to create item with invalid id 39167
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: no thing at pos:5999 6046 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:6000 6046 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:6000 6045 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:6000 6046 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:6000 6047 7, stackpos:3
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: ProtocolGame parse message exception (186 bytes, 98 unread, last opcode is 0x67 (103), prev opcode is 0x6d (109)): unable to create item with invalid id 39167
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: no thing at pos:6000 6048 7, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no creature found to move
+at:
+	[C++]: ?parseCreatureMove@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: ProtocolGame parse message exception (171 bytes, 105 unread, last opcode is 0x67 (103), prev opcode is 0x6d (109)): unable to create item with invalid id 39167
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: no thing at pos:6000 6049 7, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileRemoveThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: ProtocolGame parse message exception (287 bytes, 79 unread, last opcode is 0x68 (104), prev opcode is 0x6d (109)): unable to create item with invalid id 39167
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+Exiting application..
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 09 2023 22:20:34
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Login to 181.214.221.86:7172
+ERROR: ProtocolGame parse message exception (387 bytes, 217 unread, last opcode is 0x66 (102), prev opcode is 0x6d (109)): unable to create item with invalid id 28415
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: ProtocolGame parse message exception (359 bytes, 243 unread, last opcode is 0x66 (102), prev opcode is 0x6d (109)): unable to create item with invalid id 28415
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: ProtocolGame parse message exception (328 bytes, 210 unread, last opcode is 0x66 (102), prev opcode is 0x6d (109)): unable to create item with invalid id 28415
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: ProtocolGame parse message exception (3517 bytes, 507 unread, last opcode is 0x64 (100), prev opcode is 0x6c (108)): unable to create item with invalid id 39167
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: ProtocolGame parse message exception (3658 bytes, 501 unread, last opcode is 0x64 (100), prev opcode is 0x6c (108)): unable to create item with invalid id 39167
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: ProtocolGame parse message exception (3338 bytes, 513 unread, last opcode is 0x64 (100), prev opcode is 0x6c (108)): unable to create item with invalid id 39167
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: ProtocolGame parse message exception (3680 bytes, 603 unread, last opcode is 0x64 (100), prev opcode is 0x6c (108)): unable to create item with invalid id 39167
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: ProtocolGame parse message exception (4026 bytes, 572 unread, last opcode is 0x64 (100), prev opcode is 0x6c (108)): unable to create item with invalid id 39167
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: ProtocolGame parse message exception (3680 bytes, 589 unread, last opcode is 0x64 (100), prev opcode is 0x6c (108)): unable to create item with invalid id 39167
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: ProtocolGame parse message exception (3991 bytes, 579 unread, last opcode is 0x64 (100), prev opcode is 0x6c (108)): unable to create item with invalid id 39167
+Packet has been saved to packet.log, you can use it to find what was wrong. (Protocol: 772)
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:1
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing at pos:5972 6048 4, stackpos:2
+at:
+	[C++]: ?getMappedThing@ProtocolGame@@QAE?AV?$shared_object_ptr@VThing@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@@Z
+ERROR: invalid creature
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: no thing
+at:
+	[C++]: ?parseTileTransformThing@ProtocolGame@@AAEXABV?$shared_object_ptr@VInputMessage@@@stdext@@@Z
+ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+ERROR: server said that a creature is known, but it's not
+at:
+	[C++]: ?getCreature@ProtocolGame@@QAE?AV?$shared_object_ptr@VCreature@@@stdext@@ABV?$shared_object_ptr@VInputMessage@@@3@H@Z
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 11 2023 14:26:44
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Login to 181.214.221.86:7172
+Login to 181.214.221.86:7172
+WARNING: attempt to destroy widget 'widget1276' two times
+Login to 181.214.221.86:7172
+Exiting application..
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 11 2023 14:36:20
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+FATAL ERROR: Unable to load module 'game_inventory': LUA ERROR: /modules/game_inventory/inventory.lua:464: unexpected symbol near '-'
+stack traceback:
+	[builtin#146]: at 0x007b8b80
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:72: in function 'loadModules'
+	/init.lua:93: in main chunk
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 11 2023 14:38:46
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Login to 181.214.221.86:7172
+Exiting application..
+WARNING: widget 'widget1276' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Testador Sprit/'
+== application started at Oct 11 2023 14:41:32
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_shop' required by 'game_interface'
+Connecting to: tibinha.online:7171
+Login to 181.214.221.86:7172
+Login to 181.214.221.86:7172
+Exiting application..
